@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: Gold;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+}
+header a{
+    color: DarkMagenta;
+}
+header b{
+    color: Indigo;
+}
+main h1{
+    text-align: center;
+    color: darkmagenta;
+}
+footer{
+    
+}
